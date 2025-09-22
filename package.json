@@ -1,0 +1,19 @@
+{
+  "name": "mynodeapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.10.9"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3",
+    "supertest": "^4.0.2"
+  },
+  "author": "",
+  "license": "ISC"
+}
